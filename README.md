@@ -2,17 +2,6 @@
 
 Flutter Developer | Passionate about building mobile apps that make life easier.  
 
----
-
-## 📊 GitHub Stats
-![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahd-tarek&show_icons=true&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahd-tarek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
  ---
 
 ##  Tech Stac
