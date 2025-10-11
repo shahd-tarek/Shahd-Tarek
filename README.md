@@ -10,6 +10,6 @@ Flutter Developer | Passionate about building mobile apps that make life easier.
 - **Tools**:  GitHub, VS Code, Android Studio ,Firebase (Auth, Firestore), REST APIs, Postman
 
 ##  Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahd-tarek-f4)  
-- 📧 Shahdt321@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/shahd-tarek-f4)  
+-  Shahdt321@gmail.com
 
