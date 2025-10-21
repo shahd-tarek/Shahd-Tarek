@@ -3,8 +3,6 @@
 Flutter Developer | Passionate about building mobile apps that make life easier.  
 
  ---
-
-##  Tech Stac
 - **Languages**: Dart, html, C#
 - **Frameworks**: Flutter
 - **Tools**:  GitHub, VS Code, Android Studio ,Firebase (Auth, Firestore), REST APIs, Postman
