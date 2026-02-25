@@ -1,6 +1,5 @@
 # Hi there , I'm Shahd Tarek  
 
-Flutter Developer | Passionate about building mobile apps that make life easier.  
 
  ---
 - **Languages**: Dart, html, C#
