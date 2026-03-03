@@ -2,9 +2,9 @@
 
 
  ---
-- **Languages**: Dart, html, C#
-- **Frameworks**: Flutter
-- **Tools**:  GitHub, VS Code, Android Studio ,Firebase (Auth, Firestore), REST APIs, Postman
+- **Languages**: Html , CSS, Java script , C#
+- **Frameworks**:  Angular , ASP.NET
+- **Tools**:  GitHub, VS Code, Visual Studio ,REST APIs, Postman
 
 ##  Connect with me
 -  [LinkedIn](https://www.linkedin.com/in/shahd-tarek-f4)  
